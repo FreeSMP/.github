@@ -1,41 +1,78 @@
 # 🌟 FreeSMP
-> 🎮 **SMP & Mini-Jeux Minecraft**
-Bienvenue sur le GitHub officiel de **FreeSMP** !
-FreeSMP est un serveur Minecraft communautaire proposant une expérience **SMP** accompagnée de différents **mini-jeux**, avec des fonctionnalités développées spécialement pour notre communauté.
+
+### 🎮 SMP & Mini-Jeux Minecraft
+
+Bienvenue sur **FreeSMP**, un serveur Minecraft communautaire proposant une expérience **SMP** accompagnée de plusieurs **mini-jeux**.
+
+Notre objectif est simple : créer un serveur **fun, accessible et évolutif**, où chacun peut jouer à son rythme avec la communauté.
+
 ---
-## 🌍 FreeSMP
-Sur FreeSMP, tu peux :
-- ⛏️ Jouer en **SMP**
-- 🏠 Construire et développer ta base
-- 🌲 Explorer le monde
-- ⚔️ Jouer avec tes amis
-- 🎯 Découvrir différents **mini-jeux**
-- 👥 Rejoindre une communauté active
-- 🚀 Profiter de fonctionnalités développées spécialement pour le serveur
----
-## 🎮 Nos modes de jeu
-### 🌲 SMP
-Un mode de survie communautaire dans lequel tu peux construire, explorer, créer ta base et jouer avec les autres joueurs.
+
+## 🌍 Le serveur
+
+**FreeSMP** te permet de découvrir un monde Minecraft communautaire dans lequel tu peux construire, explorer, progresser et jouer avec tes amis.
+
+### ⛏️ SMP
+
+- 🏠 Construis ta propre base
+- 🌲 Explore le monde
+- ⚔️ Joue avec les autres joueurs
+- 💰 Développe ton aventure
+- 🤝 Participe à la vie de la communauté
+
 ### 🎯 Mini-Jeux
-Des mini-jeux pour varier ton expérience et t'amuser avec la communauté.
-De nouveaux modes et fonctionnalités peuvent être ajoutés au fil du temps.
+
+Profite également de différents mini-jeux pour changer du mode survie et partager des parties avec la communauté.
+
+De nouveaux modes et fonctionnalités pourront être ajoutés au fil du développement du serveur.
+
 ---
-## 💻 Technologies
-![Minecraft](https://img.shields.io/badge/Minecraft-1.21%2B-green?style=for-the-badge&logo=minecraft&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-blue?style=for-the-badge)
+
+## 🛠️ Un serveur développé pour la communauté
+
+FreeSMP dispose de systèmes et de fonctionnalités développés spécialement pour le serveur.
+
+Le projet comprend notamment :
+
+- 🔌 Plugins Minecraft
+- ⚙️ Systèmes personnalisés
+- 🤖 Outils et bots Discord
+- 🌐 Services web
+- 🧩 Fonctionnalités communautaires
+
+Chaque fonctionnalité est pensée pour améliorer l'expérience des joueurs.
+
 ---
-## 🌐 Rejoins FreeSMP
-🌍 **Site :** https://freesmp.craftpick.fr
-💬 **Discord :** https://dsc.gg/freesmps
+
+## 🚀 Un projet en constante évolution
+
+FreeSMP est un projet qui évolue continuellement.
+
+De nouvelles fonctionnalités, améliorations, corrections et modes de jeu peuvent être ajoutés au fil du temps afin de proposer une expérience toujours plus complète.
+
+> 💡 Vos retours et vos idées peuvent contribuer à faire évoluer le serveur.
+
 ---
-## 🚀 Notre objectif
-Notre objectif est de créer un serveur Minecraft **simple, fun et communautaire**, avec des fonctionnalités originales et une expérience régulièrement améliorée.
-FreeSMP est un projet en constante évolution. ❤️
+
+## 🌐 Nous rejoindre
+
+🌍 **Site officiel**  
+https://freesmp.zyrahost.fr
+
+💬 **Discord**  
+https://dsc.gg/gaelontv
+
+💻 **GitHub**  
+https://github.com/FreeSMP
+
 ---
-<div align="center">
-# 🌟 FreeSMP
+
+## 🎮 FreeSMP
+
 **SMP • Mini-Jeux • Communauté**
-🎮 Joue • 🛠️ Construis • 🌍 Explore • 👥 Partage
-**Développé avec ❤️ pour la communauté Minecraft.**
-</div>
+
+> 🌟 Construis ton aventure.  
+> 🌍 Explore ton monde.  
+> 👥 Joue avec la communauté.
+
+**FreeSMP — Ton aventure commence ici.**
